@@ -1,0 +1,1 @@
+git+http://github.com/ChrisDoohan/stateless_slack_RTM_bot.git==0.1
