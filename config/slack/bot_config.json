@@ -1,7 +1,12 @@
 {
-  "response_username": "Gatekeeper Cat",
-  "response_avatar": ":pouting_cat:",
+  "response_username": "Gate Bot",
+  "response_avatar": ":avocado:",
   "admin_user_slack_ids": [
+    "UE8Q0R8KY",
+    "U1GDFHTFW",
+    "U11K4H28M",
+    "UMSCBFLDD",
+    "UE6PXKSJV",
     "UR7A598DT"
   ]
 }

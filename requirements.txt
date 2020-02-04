@@ -1,1 +1,2 @@
-git+http://github.com/ChrisDoohan/stateless_slack_RTM_bot.git==0.1
+git+http://github.com/ChrisDoohan/stateless_slack_RTM_bot.git@0.2
+git+http://github.com/ChrisDoohan/simple_pi_servo_wrapper.git@0.2
